@@ -16,7 +16,7 @@ a {
 }
 
 .container {
-  background-image: url('/images/kindnessimg.jpg');
+  background-image: url('/images/kindness.jpeg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -26,6 +26,7 @@ a {
   height: 60vh;
   margin-bottom: 20px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  object-fit: cover;
 }
 
 .Heading {
